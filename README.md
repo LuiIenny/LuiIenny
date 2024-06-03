@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá amigos! 👋
 
 Meu nome é Ingridy Ribeiro 
 
@@ -6,7 +6,7 @@ Meu nome é Ingridy Ribeiro
 - Estou me desenvolvendo na linguagem JavaScript
 - Ultilizo esse espaço para minha organização e compartilhamento
 
-  ### Voce entrar em contato comigo
+  ### Para entrar em contato comigo:
 
  ingridy.pereirar10@gmail.com
 
